@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{369F7D6B-6EC4-CE76-F61A-FC8FCBBE7D20}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WM2000/Terminal/Hacker.cs">
+    <Files>
+      <File FileName="Assets/WM2000/Terminal/Hacker.cs" Line="143" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2__Terminal__Hacker PreferredExecutionTarget="Unity.Editor" />
+</Properties>
